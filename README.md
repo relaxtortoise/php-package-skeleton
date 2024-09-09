@@ -1,7 +1,7 @@
 # PHP Package Skeleton
 
-[![Tests](https://github.com/your-username/your-repo-name/actions/workflows/tests.yml/badge.svg)](https://github.com/your-username/your-repo-name/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/your-username/your-repo-name/branch/main/graph/badge.svg)](https://codecov.io/gh/your-username/your-repo-name)
+[![Tests](https://github.com/your-username/your-repo-name/actions/workflows/tests.yml/badge.svg)](https://github.com/relaxtortoise/php-package-skeleton/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/relaxtortoise/php-package-skeleton/graph/badge.svg?token=eNH7RLki8I)](https://codecov.io/gh/relaxtortoise/php-package-skeleton)
 
 
 This is a skeleton repository for PHP packages. Use this as a starting point for your new PHP package.
