@@ -1,0 +1,67 @@
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+phpunit.xml
+
+# PHP-CS-Fixer
+.php-cs-fixer.cache
+.php_cs
+.php_cs.cache
+
+# PHPStan
+phpstan.neon
+
+# 环境文件
+.env
+.env.*
+!.env.example
+
+# IDE 和编辑器文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.eclipse/
+.settings/
+.buildpath
+.project
+*.swp
+*.swo
+*~
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+php_errors.log
+
+# 缓存文件
+*.cache
+
+# 临时文件
+tmp/
+temp/
+
+# 构建文件
+build/
+
+# 依赖管理工具
+npm-debug.log
+yarn-error.log
+/node_modules/
+
+# 其他
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+
+# 测试覆盖率报告
+coverage/
